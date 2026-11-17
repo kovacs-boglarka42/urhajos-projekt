@@ -1,0 +1,2 @@
+4. feladat kérdés - válasz
+Mind a három azt a cél szolgálja, hogy létre hozzon objektumokat

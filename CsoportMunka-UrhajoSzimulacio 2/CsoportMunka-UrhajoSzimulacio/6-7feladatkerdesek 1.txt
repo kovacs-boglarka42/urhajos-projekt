@@ -1,0 +1,6 @@
+6-7. feladat kérdések
+
+1. Mert ha nincsen elég üzemanyag akkor a hajó nem tudna elindulni
+2. Ha kisebb mint 20 akkor nem indul a hajó, ha nagyobb vagy egyenlő akor elindul, tehát a elágazás ellenőrizzük vele
+3 - 4. Először azt nézi, hogy 30-nál kevesebb és akkor kritkus javításra van szüksége, ha annál több akkor ugor a következő elágazásra ammikor azt vizsgálja, hogy 70-nél kisebb-e. Azért számít a sorrend, mert ha attól még, hogy 70-nél kisebb, nem biztos hogy 30-nál is. Tehát nem feltétlen kell kritikus javítás attól mert 70-nél kisebb.
+5. Mert így tesztelhető a lehető legjobban a elágazás, minden változatot látunk lefutni.

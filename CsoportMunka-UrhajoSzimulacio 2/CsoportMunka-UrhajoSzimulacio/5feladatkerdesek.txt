@@ -1,0 +1,6 @@
+5. feladat kérdés - válasz
+
+1. nem jutottunk el még 
+2. Angolul a List szó az listát jelent
+3. ---------------------------------
+4. A későbbiekben egyszerűbb űrhajósokat létrehozni és lekérdezni a velük kapcsolatban levő adatokat.

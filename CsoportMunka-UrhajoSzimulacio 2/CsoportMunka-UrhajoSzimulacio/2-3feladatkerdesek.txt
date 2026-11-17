@@ -1,0 +1,6 @@
+2-3. kérdések - válaszok
+
+1. 2-2 objektumot kell.
+2. Egyesíti a kettő class-t.
+3. Spacesuit 
+4. Könnyebb, gyorsabb és effektívebb.

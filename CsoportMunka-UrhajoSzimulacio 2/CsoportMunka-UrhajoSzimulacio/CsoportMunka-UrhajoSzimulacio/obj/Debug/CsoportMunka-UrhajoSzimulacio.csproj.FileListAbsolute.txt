@@ -1,0 +1,14 @@
+C:\Users\kovacs.boglarka\CsoportMunka-UrhajoSzimulacio\CsoportMunka-UrhajoSzimulacio\bin\Debug\CsoportMunka-UrhajoSzimulacio.exe.config
+C:\Users\kovacs.boglarka\CsoportMunka-UrhajoSzimulacio\CsoportMunka-UrhajoSzimulacio\bin\Debug\CsoportMunka-UrhajoSzimulacio.exe
+C:\Users\kovacs.boglarka\CsoportMunka-UrhajoSzimulacio\CsoportMunka-UrhajoSzimulacio\bin\Debug\CsoportMunka-UrhajoSzimulacio.pdb
+C:\Users\kovacs.boglarka\CsoportMunka-UrhajoSzimulacio\CsoportMunka-UrhajoSzimulacio\obj\Debug\CsoportMunka-UrhajoSzimulacio.csproj.AssemblyReference.cache
+C:\Users\kovacs.boglarka\CsoportMunka-UrhajoSzimulacio\CsoportMunka-UrhajoSzimulacio\obj\Debug\CsoportMunka-UrhajoSzimulacio.csproj.CoreCompileInputs.cache
+C:\Users\kovacs.boglarka\CsoportMunka-UrhajoSzimulacio\CsoportMunka-UrhajoSzimulacio\obj\Debug\CsoportMunka-UrhajoSzimulacio.exe
+C:\Users\kovacs.boglarka\CsoportMunka-UrhajoSzimulacio\CsoportMunka-UrhajoSzimulacio\obj\Debug\CsoportMunka-UrhajoSzimulacio.pdb
+C:\Users\winkler.mia\Downloads\CsoportMunka-UrhajoSzimulacio 1\CsoportMunka-UrhajoSzimulacio\CsoportMunka-UrhajoSzimulacio\bin\Debug\CsoportMunka-UrhajoSzimulacio.exe.config
+C:\Users\winkler.mia\Downloads\CsoportMunka-UrhajoSzimulacio 1\CsoportMunka-UrhajoSzimulacio\CsoportMunka-UrhajoSzimulacio\bin\Debug\CsoportMunka-UrhajoSzimulacio.exe
+C:\Users\winkler.mia\Downloads\CsoportMunka-UrhajoSzimulacio 1\CsoportMunka-UrhajoSzimulacio\CsoportMunka-UrhajoSzimulacio\bin\Debug\CsoportMunka-UrhajoSzimulacio.pdb
+C:\Users\winkler.mia\Downloads\CsoportMunka-UrhajoSzimulacio 1\CsoportMunka-UrhajoSzimulacio\CsoportMunka-UrhajoSzimulacio\obj\Debug\CsoportMunka-UrhajoSzimulacio.csproj.AssemblyReference.cache
+C:\Users\winkler.mia\Downloads\CsoportMunka-UrhajoSzimulacio 1\CsoportMunka-UrhajoSzimulacio\CsoportMunka-UrhajoSzimulacio\obj\Debug\CsoportMunka-UrhajoSzimulacio.csproj.CoreCompileInputs.cache
+C:\Users\winkler.mia\Downloads\CsoportMunka-UrhajoSzimulacio 1\CsoportMunka-UrhajoSzimulacio\CsoportMunka-UrhajoSzimulacio\obj\Debug\CsoportMunka-UrhajoSzimulacio.exe
+C:\Users\winkler.mia\Downloads\CsoportMunka-UrhajoSzimulacio 1\CsoportMunka-UrhajoSzimulacio\CsoportMunka-UrhajoSzimulacio\obj\Debug\CsoportMunka-UrhajoSzimulacio.pdb

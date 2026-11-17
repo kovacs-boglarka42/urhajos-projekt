@@ -1,0 +1,6 @@
+7. feladat kérdés - válasz
+
+1. Spaceship-ben található
+2. Az űrhajósok az űrhajóban tartózkodnak.
+3. Így nem kell egyesével kiírni minden űrhajós adatait egyesével
+4. Nem, mert végig megy az űrhajósok listáján 
